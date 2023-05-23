@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889880341423",
+    "project_id": "skismi",
+    "storage_bucket": "skismi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889880341423:android:ea66d9f2987030bbd1dd5a",
+        "android_client_info": {
+          "package_name": "com.example.skismi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889880341423-q2oeq7oe35t4q2i71trkp92b0aormkqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skismi",
+            "certificate_hash": "d83acc58cfa6b6d03a8bdaf196c47cf2317a297d"
+          }
+        },
+        {
+          "client_id": "889880341423-bs9n3t24s93l7lja0pfpnrfafusfiot0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe8VAOr5Lc_YpsWl2MHqxx_vSHVQhLHIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889880341423-bs9n3t24s93l7lja0pfpnrfafusfiot0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
